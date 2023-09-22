@@ -1,5 +1,5 @@
 # Weather Forecast Script
-## The nested folder with the AI weather has not yet been fully tested and debugged. It is in a mostly completed state 
+## The nested folder with the AI Weather companion has not yet been fully tested and debugged. It is in a mostly completed, non-working state 
 
 
 This Python script provides a personalized weather forecast for a specified location. It retrieves weather data from the WeatherAPI.com service, calculates the probability of needing an umbrella, jacket, or shorts during different time periods of the day, and presents the forecast in a user-friendly format. Below, you'll find instructions on how to use the script and an overview of its functionalities.
