@@ -6,11 +6,7 @@ This Python script provides a personalized weather forecast for a specified loca
 
 ## Prerequisites
 
-Before using this script, make sure you have the following prerequisites installed:
-
-- Python 3.x
-- `requests` library: You can install it using pip with `pip install requests`.
-- `tabulate` library: You can install it using pip with `pip install tabulate`.
+Before using this script, make sure you have the following prerequisites installed by running `pip install requirements.txt`
 
 ## How to Use
 
