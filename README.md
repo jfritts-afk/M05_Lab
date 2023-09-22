@@ -6,7 +6,7 @@ This Python script provides a personalized weather forecast for a specified loca
 
 ## Prerequisites
 
-Before using this script, make sure you have the following prerequisites installed by running `pip install requirements.txt`
+Before using this script, make sure you have the prerequisite packages installed by running `pip install requirements.txt`
 
 ## How to Use
 
